@@ -1,0 +1,35 @@
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    color: #666666;
+    background-color: #F4FAFD;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 10%;
+}
+
+.section-heading {
+    color: #6E95B8;
+    font-size: 36px;
+    font-family: serif;
+}
+
+.button {
+    background-color: white;
+    padding: 15px 45px;
+    border-radius: 50px;
+    display: inline-block;
+    color: #6E95B8;
+    font-size: 16px;
+    text-decoration: none;
+    box-shadow: 0 4px 5px rgba(133, 178, 218, .1);
+    transition: all .8s ease;
+}
+
+.button:hover {
+    background-color: #6e95b8;
+    color:white;
+
+}

@@ -1,0 +1,36 @@
+.text-media .section-heading {
+    margin-bottom: 56px;
+  
+}
+
+.text-media .layout {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 103px;
+    padding-right: 103px;
+}
+
+.text-media .image {
+    background-image: url(../images/lavender.png);
+    width: 383px;
+    height: 575px;
+    border-radius: 383px;
+}
+
+.text-media .content {
+    max-width: 352px;
+}
+
+.text-media .title {
+    line-height: 36px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 16px;
+}
+
+.text-media .text {
+    line-height: 28px;
+    font-size: 16px;
+    margin-bottom: 32px;
+}
