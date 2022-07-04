@@ -1,0 +1,31 @@
+.cards {
+    margin-bottom: 179px;
+}
+
+.cards .section-heading {
+   margin-bottom: 34px; 
+}
+
+.cards .card-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards .card-item {
+    max-width: 584px;
+}
+
+.cards .image {
+    margin-bottom: 20px;
+}
+.cards .title {
+    line-height: 36px;
+    font-size: 24px;
+    font-weight: 500;
+     
+}
+
+.cards .text {
+    line-height: 28px;
+    margin-bottom: 20px;
+}
