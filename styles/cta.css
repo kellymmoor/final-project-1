@@ -1,0 +1,36 @@
+.cta {
+    background-color: white;
+    padding: 32px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 149px;
+}
+
+.cta .sub-head {
+    line-height: 28px;
+}
+
+.cta .title {
+    line-height: 36px;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.cta .price {
+    font-size: 50px;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.cta .price span {
+    line-height: 28px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.cta .content {
+    max-width: 299px;
+    margin: 0 auto;
+    text-align: center;
+}
+

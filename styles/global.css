@@ -24,7 +24,6 @@ body {
     color: #6E95B8;
     font-size: 16px;
     text-decoration: none;
-    box-shadow: 0 4px 5px rgba(133, 178, 218, .1);
     transition: all .8s ease;
 }
 
@@ -32,4 +31,31 @@ body {
     background-color: #6e95b8;
     color:white;
 
+}
+
+.button.button--border {
+    border: 1px solid #93B0CA;
+}
+
+.button.button--box-shadow {
+    box-shadow: 0 4px 5px rgba(133, 178, 218, .1);
+}
+
+.icon {
+    border-radius: 100%;
+    padding: 12px 20px;
+    color: white;
+    display: inline-block;
+    text-transform: uppercase;
+}
+
+.icon.icon--white {
+    margin-right: 13px;
+    border: 1px solid white;
+    
+    
+}
+
+.icon.icon--purple {
+    background-color: #D4C9EC;
 }
