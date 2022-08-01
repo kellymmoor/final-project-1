@@ -1,0 +1,78 @@
+ .footer a {
+    text-decoration: none;
+    color: #666666;
+
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+.top-content {
+    border-top: 1px solid #85B2DA;
+    padding-top: 50px;
+    display: flex;
+    gap: 150px;
+    margin-bottom: 150px;
+  
+}
+
+.footer-list {
+    margin-left: auto;
+}
+
+.footer-heading {
+    text-transform: uppercase;
+    font-weight: 700;
+    line-height: 19px;
+    margin-bottom: 16px;
+
+}
+.product-list {
+    text-transform: uppercase;
+    line-height: 20px;
+    font-size: 14px;
+    
+}
+
+.product-item {
+    margin-bottom: 10px;
+}
+  
+.link-list {
+    margin-bottom: 35px;
+    font-weight: 700;
+    line-height: 19px;
+    text-transform: uppercase;
+
+}
+
+.shop-list {
+    margin-bottom: 16px;
+}
+
+.logo-link {
+    display: flex;
+}
+
+.logo-image {
+    margin-right: 31px;
+}
+
+.logo-image:last-child {
+    margin-right: 0;
+}
+
+.bottom-content {
+    display: flex;
+    gap: 150px;
+    margin-bottom: 45px;
+    
+}
+
+.footer-links {
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 50%;
+}
